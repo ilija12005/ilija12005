@@ -19,7 +19,7 @@
 //}else{
   //console.log(`Niste punoletni`);
 //}
-let god=Number(promp("Unesi godine"));
+let god=Number(prompt("Unesi godine"));
 if (Number.isNaN(god){
   console.log("Niste uneli broj")
 }else{
